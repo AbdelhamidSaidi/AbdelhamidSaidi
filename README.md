@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Abdelhamid Saidi</h1>
-<h3 align="center">🎯 Engineering Student | Data Enthusiast | Future Data Engineer</h3>
+<h3 align="center">🎯 Software engineering Student | Data Enthusiast | Future Data Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+insight;Building+end-to-end+data+solutions;Always+learning%2C+always+improving!" alt="Typing SVG" />
