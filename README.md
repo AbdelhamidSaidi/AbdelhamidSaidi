@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Abdelhamid Saidi</h1>
+<h1 align="center">👋 Hi, I'm Abdelhamid SAIDI</h1>
 <h3 align="center">🎯 Software engineering Student | Data Enthusiast | Future Data Engineer</h3>
 
 <p align="center">
