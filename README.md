@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+insights;Building+end-to-end+data+solutions;Always+learning%2C+always+improving!" alt="Typing SVG" />
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AbdelhamidSaidi&label=Profile%20Visits&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
+</p>
+
 ---
 
 ## 🧠 About Me  
