@@ -9,11 +9,9 @@
 ---
 
 ## 🧠 About Me  
-- 🎓 Engineering student at **FST Settat**  
+- 🎓 Software engineering student at **FST Settat**  
 - 💾 Passionate about **data engineering, analytics, and automation**  
 - ☁️ Interested in **cloud-native data pipelines and orchestration**  
-- 🥋 Athlete mindset — discipline and consistency are key  
-
 ---
 
 ## ⚙️ Tech Stack  
