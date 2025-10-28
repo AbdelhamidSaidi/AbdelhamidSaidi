@@ -20,63 +20,52 @@
 
 ## ⚙️ Tech Stack  
 
-### 🐍 Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+### 🐍 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-### 📊 Data Analysis & Python Ecosystem  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+### 📊 Data Analysis & Python Ecosystem
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & Data Engineering  
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-1E90FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml;base64,&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Warehousing-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+### 🗄️ Databases & Data Engineering
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-02569B?logo=apache-airflow&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-2C3E50?logo=databricks&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4DB33D?logo=amazon-dynamodb&logoColor=white)
 
-### 🔄 Data Orchestration & Workflow Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Mage.ai-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--Driven%20Automation-228B22?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serverless%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+### 🔄 Data Orchestration & Workflow
+![Mage.ai](https://img.shields.io/badge/Mage.ai-3B82F6?logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Automation-FF6B6B?logo=amazon-s3&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless_Architecture-FF9900?logo=aws-lambda&logoColor=white)
 
-### 📈 Data Visualization & Reporting  
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+### 📈 Data Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
 
-### ☁️ Cloud Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+### ☁️ Cloud Platforms
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?logo=oracle&logoColor=white)
 
-### 🧰 Tools & Technologies  
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-0078D7?style=for-the-badge&logo=windows11&logoColor=white" />
-</p>
+### 🧰 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?logo=python&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Methodologies-0078D7?logo=azure-devops&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps_Fundamentals-2496ED?logo=docker&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems_Concepts-333333?logo=windows-terminal&logoColor=white)
 
 ---
 
