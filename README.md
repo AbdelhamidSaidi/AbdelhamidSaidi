@@ -22,10 +22,12 @@
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
+---
 
 ### 📊 Data Analysis & Python Ecosystem
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -34,18 +36,24 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E5EAA?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
+---
+
 ### 🗄️ Databases & Data Engineering
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-02569B?logo=apache-airflow&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT_Pipelines-02569B?logo=apacheairflow&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-2C3E50?logo=databricks&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4DB33D?logo=amazon-dynamodb&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-4DB33D?logo=amazonredshift&logoColor=white)
+
+---
 
 ### 🔄 Data Orchestration & Workflow
-![Mage.ai](https://img.shields.io/badge/Mage.ai-3B82F6?logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven_Automation-FF6B6B?logo=amazon-s3&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless_Architecture-FF9900?logo=aws-lambda&logoColor=white)
+![Mage.ai](https://img.shields.io/badge/Mage.ai-3B82F6?logo=mage&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Automation-FF6B6B?logo=amazons3&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless_Architecture-FF9900?logo=awslambda&logoColor=white)
+
+---
 
 ### 📈 Data Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
@@ -53,19 +61,24 @@
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
 
+---
+
 ### ☁️ Cloud Platforms
 ![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?logo=oracle&logoColor=white)
+
+---
 
 ### 🧰 Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?logo=python&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Methodologies-0078D7?logo=azure-devops&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Methodologies-0078D7?logo=azuredevops&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Fundamentals-2496ED?logo=docker&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems_Concepts-333333?logo=windows-terminal&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems_Concepts-333333?logo=windowsterminal&logoColor=white)
+
 
 ---
 
