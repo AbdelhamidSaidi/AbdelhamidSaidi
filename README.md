@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-```js
+```
 const abdelhamid = {
     location: "Agadir, Morocco 🇲🇦",
     role: "Future Data Engineer & Software Engineering Student @ FST Settat",
@@ -26,6 +26,7 @@ const abdelhamid = {
 console.log("Welcome to my data-driven universe! 🚀");
 "Passionate about data, analytics, and turning raw information into meaningful systems.
 Athlete, MMA enjoyer, and always pushing limits — technically and physically."
+```
 
 🧠 Tech Stack
 💻 Languages
