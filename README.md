@@ -84,8 +84,9 @@
 
 ## 📈 GitHub Profile Stats  
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelhamidSaidi&show_icons=true" alt="GitHub Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/AbdelhamidSaidi?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false&Points.Followers=4" alt="GitHub Stats" />
 </p>
 
 <p align="center">
