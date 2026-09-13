@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AbdelhamidSaidi&color=green)
 # 💫 About Me:
 🔭 I’m currently working on AlS pipeline <br>👯 I’m looking to collaborate on on open data projects around anything where the data exists but nobody's made it usable<br>🌱 I'm currently learning streaming with Kafka, and getting properly comfortable with dbt
 
@@ -10,6 +11,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdelhamidSaidi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbdelhamidSaidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
